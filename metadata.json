@@ -1,0 +1,6 @@
+{
+  "name": "SkillWallet - Developer Project Workspace & Portfolio",
+  "description": "Comprehensive developer learning and project tracking platform featuring MERN stack projects, interactive Kanban, Skill Bank, digital Skill Card, and live project workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
